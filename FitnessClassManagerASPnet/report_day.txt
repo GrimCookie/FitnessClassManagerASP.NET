@@ -1,0 +1,1 @@
+Id: 001; Description: running; Location: Sunderland; Spaces: 1; Day: Thursday; Time: 09:00; Duration: 1; Multi-week: No; Start Date: 02/04/2015; Number of sessions: 4

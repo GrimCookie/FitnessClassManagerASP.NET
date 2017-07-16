@@ -1,0 +1,1 @@
+Id: 002; Description: Bowling; Location: Durham; Spaces: 7; Day: Sunday; Time: 12:30; Duration: 6; Multi-week: No; Start Date: 05/04/2015; Number of sessions: 6
